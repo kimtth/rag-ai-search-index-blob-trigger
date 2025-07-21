@@ -1,0 +1,5 @@
+azure-functions>=1.23.0,<2.0.0
+azurefunctions-extensions-bindings-blob>=1.0.0,<2.0.0
+openai>=1.97.0,<2.0.0
+azure-search-documents>=11.5.3,<12.0.0
+python-dotenv>=1.1.1,<2.0.0
