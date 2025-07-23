@@ -8,3 +8,4 @@ AzuriteConfig
 local.settings.json
 poetry.lock
 /showcase
+/tmp
