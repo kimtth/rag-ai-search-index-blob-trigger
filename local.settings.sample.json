@@ -10,7 +10,9 @@
     "AZURE_OPENAI_ENDPOINT": "https://{your-openai-endpoint}.openai.azure.com/",
     "AZURE_OPENAI_API_KEY": "{your-openai-api-key}",
     "AZURE_OPENAI_EMBEDDING_NAME": "{your-openai-embedding-name}",
-    "AZURE_OPENAI_API_VERSION": "{your-openai-api-version}"
+    "AZURE_OPENAI_API_VERSION": "{your-openai-api-version}",
+    "AZURE_SEARCH_STORAGE__blobServiceUri": "<your-blob-service-uri>",
+    "AZURE_SEARCH_STORAGE__queueServiceUri": "<your-queue-service-uri>"
   },
     "Host": {
     "LocalHttpPort": 7071,
